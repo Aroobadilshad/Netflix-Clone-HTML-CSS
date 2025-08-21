@@ -29,6 +29,6 @@ Open index.html in any browser to see the project live.
 
 # Live Demo
 
-[View Live Site]:(https://aroobadilshad.github.io/Netflix-Clone-HTML-CSS/)
+[View Live Site](https://aroobadilshad.github.io/Netflix-Clone-HTML-CSS/)
 
 Created by: AROOBA DILSHAD | Technologies: HTML, CSS
